@@ -1883,3 +1883,11 @@ p {
   display: block;
   width: 100%;
 }
+
+.me{
+  width: 100px;
+}
+
+.us{
+  background-color: orangered;
+}
